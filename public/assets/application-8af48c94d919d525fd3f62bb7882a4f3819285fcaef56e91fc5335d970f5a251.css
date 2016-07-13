@@ -1,0 +1,55 @@
+/* poro */
+/* line 4, /Users/dyna/Desktop/Poro-poro/poro/app/assets/stylesheets/custom.css.scss */
+.coveredImage {
+  width: 1425px;
+  height: 550px;
+  margin-top: 7%;
+  position: absolute;
+  z-index: 1;
+}
+
+/* line 12, /Users/dyna/Desktop/Poro-poro/poro/app/assets/stylesheets/custom.css.scss */
+canvas {
+  margin-top: 7%;
+  position: absolute;
+  z-index: 20;
+}
+
+/* line 18, /Users/dyna/Desktop/Poro-poro/poro/app/assets/stylesheets/custom.css.scss */
+.container {
+  width: auto;
+  margin-top: 8%;
+  margin-left: 10px;
+  padding: 10px;
+  position: absolute;
+  z-index: 200;
+  background-color: black;
+  opacity: 0.8;
+}
+
+/* line 29, /Users/dyna/Desktop/Poro-poro/poro/app/assets/stylesheets/custom.css.scss */
+.text {
+  font-size: 125%;
+  color: white;
+}
+
+/* line 34, /Users/dyna/Desktop/Poro-poro/poro/app/assets/stylesheets/custom.css.scss */
+html {
+  background-color: black;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+

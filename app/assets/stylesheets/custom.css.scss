@@ -1,0 +1,35 @@
+/* poro */
+
+.coveredImage{ 
+  width:1425px; 
+  height:550px;
+  margin-top: 7%;  
+  position:absolute;
+  z-index:1;
+}
+
+canvas{
+  margin-top: 7%;   
+  position:absolute;
+  z-index:20;
+}
+
+.container {
+  width: auto;
+  margin-top: 8%;
+  margin-left: 10px;
+  padding: 10px;
+  position: absolute;
+  z-index:200;
+  background-color: black;
+  opacity: 0.8;
+}
+
+.text {
+  font-size: 125%;
+  color: white;
+}
+
+html {
+  background-color: black; 
+}
