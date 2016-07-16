@@ -8,6 +8,12 @@ Javascript Playground is an intro game site I created to showcase some Javascrip
 
 Skills used: Ruby on Rails (backend & asset pipline), Javascript, CSS, HTML5 canvas.
 
+The animation was done using javascript intervals set to 20 seconds. Various components were created to be objects on the HTML 5 canvas and I also used various functions to script out the behaviors of each component.
+
+The boxes link to my different sites (Personal Site, linkedin, Github) when touched by the "ball" character. 
+
+Simply allow popups from the Heroku Site to be sent to my different sites. 
+
 <a href="https://dannyhwangca.herokuapp.com/">![alt tag](http://i.imgur.com/pp2d9ts.png)</a>
 
 
